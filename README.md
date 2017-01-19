@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Simple Pet Registartion Project
+## Simple Pet Registration Project Structure
 
 Default Structure for A Basic Project
 
